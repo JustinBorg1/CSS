@@ -14,7 +14,7 @@
           "description": "Description for Task 2",
           "location": "Valletta",
           "date": "1st of Jan",
-          "time": "12.00"
+          "time": "15.00"
         },
         {
           "id": 3,
@@ -22,7 +22,7 @@
           "description": "Description for Task 3",
           "location": "Valletta",
           "date": "1st of Jan",
-          "time": "12.00"
+          "time": "19.00"
         }
       ]
 }
